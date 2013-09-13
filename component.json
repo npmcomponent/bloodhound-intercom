@@ -1,0 +1,13 @@
+{
+  "name": "intercom",
+  "description": "intercom.io library.",
+  "version": "0.0.1",
+  "keywords": ["intercom", "intercom.io"],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "segmentio/load-script": "0.0.2"
+  },
+  "license": "MIT"
+}
