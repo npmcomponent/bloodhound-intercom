@@ -1,5 +1,6 @@
 {
   "name": "intercom",
+  "repo": "bloodhound/intercom",
   "description": "intercom.io library.",
   "version": "0.0.1",
   "keywords": ["intercom", "intercom.io"],
