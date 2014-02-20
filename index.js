@@ -13,7 +13,7 @@ var intercom = module.exports;
 
 intercom.initialize = function(settings) {
   if (!window.Intercom) {
-    require('load-script')(
+    require('segmentio-load-script')(
       '//static.intercomcdn.com/intercom.v1.js',
       function() {
         window.Intercom('boot', settings);

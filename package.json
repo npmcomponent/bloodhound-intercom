@@ -1,0 +1,13 @@
+{
+  "name": "bloodhound-intercom",
+  "description": "intercom.io library.",
+  "version": "0.0.1",
+  "keywords": [
+    "intercom",
+    "intercom.io"
+  ],
+  "dependencies": {
+    "segmentio-load-script": "git://github.com/npmcomponent/segmentio-load-script.git"
+  },
+  "license": "MIT"
+}
